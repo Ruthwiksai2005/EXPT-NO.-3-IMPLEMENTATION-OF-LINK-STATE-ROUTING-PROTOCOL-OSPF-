@@ -25,9 +25,9 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6de3db38-fd12-4669-a29f-e6f401e2d86e" />
 
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d4181ca5-ee85-46ea-a93a-af3dd4bdeb2a" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/9a3281a8-6769-47c5-841d-9c419b04ece7" />
 
 # RESULT
 Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
